@@ -1,4 +1,4 @@
-# [fakey](https://fakey.sany.one)
+# [fakey](https://often.github.io/fakey/)
 web-based fake data generator.
 
 ## why?
